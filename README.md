@@ -4,7 +4,7 @@
 
 ---
 
-👋 Olá! Meu nome é **Vinicius Pires**, tenho 23 anos e sou **desenvolvedor Pleno .NET** na **Precisão Sistemas**.  
+👋 Olá! Meu nome é **Vinicius Pires**, tenho 24 anos e sou **desenvolvedor Pleno .NET** na **Precisão Sistemas**.  
 Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho uma trajetória marcada por muita dedicação e crescimento rápido.
 
 Comecei na empresa na área de **suporte**, depois fui para **banco de dados**, onde trabalhei com importação e integração de diversos bancos como **SQL Server, PostgreSQL, MongoDB, MySQL e Firebase**.  
