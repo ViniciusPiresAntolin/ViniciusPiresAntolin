@@ -23,6 +23,8 @@ No dia a dia, gosto de transformar tarefas repetitivas e problemas difíceis de 
 
 - APIs, serviços e aplicações com **C# e .NET**
 - Modelagem, consultas, integrações e diagnóstico em **SQL Server**
+- Desenvolvimento de **sites e aplicações web** para projetos externos
+- **Chatbots, automações e integrações com APIs** para resolver necessidades reais
 - Migração e integração de dados entre **PostgreSQL, MySQL, MongoDB e Firebase**
 - Sincronismo, automação de rotinas e investigação de problemas em produção
 - Arquitetura de software com foco em clareza, manutenção e evolução do produto
