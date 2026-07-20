@@ -1,7 +1,7 @@
 <h1 align="center">Vinicius Pires</h1>
 
 <p align="center">
-  Desenvolvedor .NET focado em backend, dados e integrações que precisam funcionar de verdade.
+  Desenvolvedor C#/.NET com forte atuação em SQL Server, backend e integrações.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor .NET na **Precisão Sistemas** e formado em Análise e Desenvolvimento de Sistemas. Trabalho principalmente com **C#**, **SQL Server**, integrações e sistemas de negócio.
+Sou desenvolvedor .NET na **Precisão Sistemas** e formado em Análise e Desenvolvimento de Sistemas. Minha base técnica central é **C#**, **.NET** e **SQL Server**, aplicados a integrações e sistemas de negócio.
 
 Minha trajetória começou no suporte e passou por importação de dados, migração entre bancos e análise de sincronismo antes de chegar ao desenvolvimento. Essa experiência moldou a forma como escrevo software hoje: procuro entender o problema em produção, a origem dos dados e o impacto de cada decisão — não apenas fazer o código compilar.
 
@@ -29,13 +29,19 @@ No dia a dia, gosto de transformar tarefas repetitivas e problemas difíceis de 
 
 ## Tecnologias
 
-### Experiência principal
+### Núcleo da minha experiência
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,mongodb,firebase,git,github,visualstudio&perline=9" alt="C#, .NET, PostgreSQL, MySQL, MongoDB, Firebase, Git, GitHub e Visual Studio" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
-> SQL Server é parte central da minha experiência profissional, mesmo não estando disponível na coleção de ícones acima.
+### Também utilizo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,visualstudio&perline=7" alt="PostgreSQL, MySQL, MongoDB, Firebase, Git, GitHub e Visual Studio" />
+</p>
 
 ### Em aprendizado
 
@@ -58,9 +64,9 @@ Site desenvolvido recentemente como trabalho externo, transformando uma necessid
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake.svg?v=2" />
+  <img width="100%" alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
 ## Contato
