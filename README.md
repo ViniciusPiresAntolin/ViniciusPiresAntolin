@@ -63,12 +63,13 @@ No dia a dia, gosto de transformar tarefas repetitivas e problemas difíceis de 
 
 <p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
 </p>
 
-Atualmente estou ampliando minha experiência com o ecossistema JavaScript, estudando **Node.js**, **React** e **Next.js** para desenvolver aplicações web de ponta a ponta.
+Atualmente estou ampliando minha experiência com o ecossistema **JavaScript e TypeScript**, estudando **Node.js**, **React** e **Next.js** para desenvolver aplicações web de ponta a ponta.
 
 ## Trabalho recente
 
