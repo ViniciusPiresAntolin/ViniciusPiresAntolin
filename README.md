@@ -79,12 +79,6 @@ Site desenvolvido recentemente como trabalho externo, transformando uma necessid
 
 ## GitHub em atividade
 
-<p align="center">
-  <a href="https://github.com/ViniciusPiresAntolin">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusPiresAntolin&theme=github_dark" alt="Resumo das contribuições de Vinicius Pires" />
-  </a>
-</p>
-
 <a href="https://github.com/ViniciusPiresAntolin?tab=overview">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusPiresAntolin/ViniciusPiresAntolin/output/github-contribution-grid-snake-dark.svg?v=2" />
